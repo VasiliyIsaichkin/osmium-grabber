@@ -1,0 +1,17 @@
+{
+	"name"        : "osmium-grabber",
+	"description" : "Osmium web-grabber",
+	"license"     : "MIT",
+	"author"      : "Vasiliy Isaichkin <vasiliy@isaichkin.ru>",
+	"repository"  : "https://github.com/VasiliyIsaichkin/osmium-grabber",
+	"version"     : "0.1.1",
+	"dependencies": {
+		"cheerio"               : "^1.0.0-rc.2",
+		"he"                    : "^1.2.0",
+		"osmium-db"             : "^0.1.5",
+		"osmium-tools"          : "^0.1.12",
+		"request"               : "^2.88.0",
+		"request-promise-native": "^1.0.5",
+		"tough-cookie"          : "^2.4.3"
+	}
+}
